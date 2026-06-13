@@ -8,7 +8,7 @@
   "server": {
     "ip": "SreeDiablo.aternos.me",
     "port": 42284,
-    "version": "1.21.1"
+    "version": "21.1.2"
   },
   "position": {
     "enabled": true,
